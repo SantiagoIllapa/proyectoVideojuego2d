@@ -1,0 +1,2498 @@
+fileFormatVersion: 2
+guid: 09dd8386d669d454f8f5b62222031aab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: NES - Castlevania - Simon Belmont - back-clear_0
+  - first:
+      213: 21300002
+    second: NES - Castlevania - Simon Belmont - back-clear_1
+  - first:
+      213: 21300004
+    second: NES - Castlevania - Simon Belmont - back-clear_2
+  - first:
+      213: 21300006
+    second: NES - Castlevania - Simon Belmont - back-clear_3
+  - first:
+      213: 21300008
+    second: NES - Castlevania - Simon Belmont - back-clear_4
+  - first:
+      213: 21300010
+    second: NES - Castlevania - Simon Belmont - back-clear_5
+  - first:
+      213: 21300012
+    second: NES - Castlevania - Simon Belmont - back-clear_6
+  - first:
+      213: 21300014
+    second: NES - Castlevania - Simon Belmont - back-clear_7
+  - first:
+      213: 21300016
+    second: NES - Castlevania - Simon Belmont - back-clear_8
+  - first:
+      213: 21300018
+    second: NES - Castlevania - Simon Belmont - back-clear_9
+  - first:
+      213: 21300020
+    second: NES - Castlevania - Simon Belmont - back-clear_10
+  - first:
+      213: 21300022
+    second: NES - Castlevania - Simon Belmont - back-clear_11
+  - first:
+      213: 21300024
+    second: NES - Castlevania - Simon Belmont - back-clear_12
+  - first:
+      213: 21300026
+    second: NES - Castlevania - Simon Belmont - back-clear_13
+  - first:
+      213: 21300028
+    second: NES - Castlevania - Simon Belmont - back-clear_14
+  - first:
+      213: 21300030
+    second: NES - Castlevania - Simon Belmont - back-clear_15
+  - first:
+      213: 21300032
+    second: NES - Castlevania - Simon Belmont - back-clear_16
+  - first:
+      213: 21300034
+    second: NES - Castlevania - Simon Belmont - back-clear_17
+  - first:
+      213: 21300036
+    second: NES - Castlevania - Simon Belmont - back-clear_18
+  - first:
+      213: 21300038
+    second: NES - Castlevania - Simon Belmont - back-clear_19
+  - first:
+      213: 21300040
+    second: NES - Castlevania - Simon Belmont - back-clear_20
+  - first:
+      213: 21300042
+    second: NES - Castlevania - Simon Belmont - back-clear_21
+  - first:
+      213: 21300044
+    second: NES - Castlevania - Simon Belmont - back-clear_22
+  - first:
+      213: 21300046
+    second: NES - Castlevania - Simon Belmont - back-clear_23
+  - first:
+      213: 21300048
+    second: NES - Castlevania - Simon Belmont - back-clear_24
+  - first:
+      213: 21300050
+    second: NES - Castlevania - Simon Belmont - back-clear_25
+  - first:
+      213: 21300052
+    second: NES - Castlevania - Simon Belmont - back-clear_26
+  - first:
+      213: 21300054
+    second: NES - Castlevania - Simon Belmont - back-clear_27
+  - first:
+      213: 21300056
+    second: NES - Castlevania - Simon Belmont - back-clear_28
+  - first:
+      213: 21300058
+    second: NES - Castlevania - Simon Belmont - back-clear_29
+  - first:
+      213: 21300060
+    second: NES - Castlevania - Simon Belmont - back-clear_30
+  - first:
+      213: 21300062
+    second: NES - Castlevania - Simon Belmont - back-clear_31
+  - first:
+      213: 21300064
+    second: NES - Castlevania - Simon Belmont - back-clear_32
+  - first:
+      213: 21300066
+    second: NES - Castlevania - Simon Belmont - back-clear_33
+  - first:
+      213: 21300068
+    second: NES - Castlevania - Simon Belmont - back-clear_34
+  - first:
+      213: 21300070
+    second: NES - Castlevania - Simon Belmont - back-clear_35
+  - first:
+      213: 21300072
+    second: NES - Castlevania - Simon Belmont - back-clear_36
+  - first:
+      213: 21300074
+    second: NES - Castlevania - Simon Belmont - back-clear_37
+  - first:
+      213: 21300076
+    second: NES - Castlevania - Simon Belmont - back-clear_38
+  - first:
+      213: 21300078
+    second: NES - Castlevania - Simon Belmont - back-clear_39
+  - first:
+      213: 21300080
+    second: NES - Castlevania - Simon Belmont - back-clear_40
+  - first:
+      213: 21300082
+    second: NES - Castlevania - Simon Belmont - back-clear_41
+  - first:
+      213: 21300084
+    second: NES - Castlevania - Simon Belmont - back-clear_42
+  - first:
+      213: 21300086
+    second: NES - Castlevania - Simon Belmont - back-clear_43
+  - first:
+      213: 21300088
+    second: NES - Castlevania - Simon Belmont - back-clear_44
+  - first:
+      213: 21300090
+    second: NES - Castlevania - Simon Belmont - back-clear_45
+  - first:
+      213: 21300092
+    second: NES - Castlevania - Simon Belmont - back-clear_46
+  - first:
+      213: 21300094
+    second: NES - Castlevania - Simon Belmont - back-clear_47
+  - first:
+      213: 21300096
+    second: NES - Castlevania - Simon Belmont - back-clear_48
+  - first:
+      213: 21300098
+    second: NES - Castlevania - Simon Belmont - back-clear_49
+  - first:
+      213: 21300100
+    second: NES - Castlevania - Simon Belmont - back-clear_50
+  - first:
+      213: 21300102
+    second: NES - Castlevania - Simon Belmont - back-clear_51
+  - first:
+      213: 21300104
+    second: NES - Castlevania - Simon Belmont - back-clear_52
+  - first:
+      213: 21300106
+    second: NES - Castlevania - Simon Belmont - back-clear_53
+  - first:
+      213: 21300108
+    second: NES - Castlevania - Simon Belmont - back-clear_54
+  - first:
+      213: 21300110
+    second: NES - Castlevania - Simon Belmont - back-clear_55
+  - first:
+      213: 21300112
+    second: NES - Castlevania - Simon Belmont - back-clear_56
+  - first:
+      213: 21300114
+    second: NES - Castlevania - Simon Belmont - back-clear_57
+  - first:
+      213: 21300116
+    second: NES - Castlevania - Simon Belmont - back-clear_58
+  - first:
+      213: 21300118
+    second: NES - Castlevania - Simon Belmont - back-clear_59
+  - first:
+      213: 21300120
+    second: NES - Castlevania - Simon Belmont - back-clear_60
+  - first:
+      213: 21300122
+    second: NES - Castlevania - Simon Belmont - back-clear_61
+  - first:
+      213: 21300124
+    second: NES - Castlevania - Simon Belmont - back-clear_62
+  - first:
+      213: 21300126
+    second: NES - Castlevania - Simon Belmont - back-clear_63
+  - first:
+      213: 21300128
+    second: NES - Castlevania - Simon Belmont - back-clear_64
+  - first:
+      213: 21300130
+    second: NES - Castlevania - Simon Belmont - back-clear_65
+  - first:
+      213: 21300132
+    second: NES - Castlevania - Simon Belmont - back-clear_66
+  - first:
+      213: 21300134
+    second: NES - Castlevania - Simon Belmont - back-clear_67
+  - first:
+      213: 21300136
+    second: NES - Castlevania - Simon Belmont - back-clear_68
+  - first:
+      213: 21300138
+    second: NES - Castlevania - Simon Belmont - back-clear_69
+  - first:
+      213: 21300140
+    second: NES - Castlevania - Simon Belmont - back-clear_70
+  - first:
+      213: 21300142
+    second: NES - Castlevania - Simon Belmont - back-clear_71
+  - first:
+      213: 21300144
+    second: NES - Castlevania - Simon Belmont - back-clear_72
+  - first:
+      213: 21300146
+    second: NES - Castlevania - Simon Belmont - back-clear_73
+  - first:
+      213: 21300148
+    second: NES - Castlevania - Simon Belmont - back-clear_74
+  - first:
+      213: 21300150
+    second: NES - Castlevania - Simon Belmont - back-clear_75
+  - first:
+      213: 21300152
+    second: NES - Castlevania - Simon Belmont - back-clear_76
+  - first:
+      213: 21300154
+    second: NES - Castlevania - Simon Belmont - back-clear_77
+  - first:
+      213: 21300156
+    second: NES - Castlevania - Simon Belmont - back-clear_78
+  - first:
+      213: 21300158
+    second: NES - Castlevania - Simon Belmont - back-clear_79
+  - first:
+      213: 21300160
+    second: NES - Castlevania - Simon Belmont - back-clear_80
+  - first:
+      213: 21300162
+    second: NES - Castlevania - Simon Belmont - back-clear_81
+  - first:
+      213: 21300164
+    second: NES - Castlevania - Simon Belmont - back-clear_82
+  - first:
+      213: 21300166
+    second: NES - Castlevania - Simon Belmont - back-clear_83
+  - first:
+      213: 21300168
+    second: NES - Castlevania - Simon Belmont - back-clear_84
+  - first:
+      213: 21300170
+    second: NES - Castlevania - Simon Belmont - back-clear_85
+  - first:
+      213: 21300172
+    second: NES - Castlevania - Simon Belmont - back-clear_86
+  - first:
+      213: 21300174
+    second: NES - Castlevania - Simon Belmont - back-clear_87
+  - first:
+      213: 21300176
+    second: NES - Castlevania - Simon Belmont - back-clear_88
+  - first:
+      213: 21300178
+    second: NES - Castlevania - Simon Belmont - back-clear_89
+  - first:
+      213: 21300180
+    second: NES - Castlevania - Simon Belmont - back-clear_90
+  - first:
+      213: 21300182
+    second: NES - Castlevania - Simon Belmont - back-clear_91
+  - first:
+      213: 21300184
+    second: NES - Castlevania - Simon Belmont - back-clear_92
+  - first:
+      213: 21300186
+    second: NES - Castlevania - Simon Belmont - back-clear_93
+  - first:
+      213: 21300188
+    second: NES - Castlevania - Simon Belmont - back-clear_94
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_0
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 646
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 646
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 646
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 646
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 646
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_5
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 646
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 646
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 646
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_8
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 646
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 603
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.33, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 603
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 603
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.63, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_12
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 602
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.31, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_13
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 602
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.47, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_14
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 602
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.61, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 563
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 563
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 564
+        width: 44
+        height: 32
+      alignment: 9
+      pivot: {x: 0.8186611, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 562
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.24, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_19
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 562
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.24, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_20
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 563
+        width: 44
+        height: 32
+      alignment: 9
+      pivot: {x: 0.81, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 524
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 523
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 524
+        width: 44
+        height: 32
+      alignment: 9
+      pivot: {x: 0.8186611, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 523
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.24, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 522
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.24, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_26
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 523
+        width: 44
+        height: 32
+      alignment: 9
+      pivot: {x: 0.81, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_27
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 481
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_28
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 480
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_29
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 481
+        width: 60
+        height: 32
+      alignment: 9
+      pivot: {x: 0.87, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_30
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 480
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.24, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_31
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 479
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.24, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_32
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 480
+        width: 60
+        height: 32
+      alignment: 9
+      pivot: {x: 0.86, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_33
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 440
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 440
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 441
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_36
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 440
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_37
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 439
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_38
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 440
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_39
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 400
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 400
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_41
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 401
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_42
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 400
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_43
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 399
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_44
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 400
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_45
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 360
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_46
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 360
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_47
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 361
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_48
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 360
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_49
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 359
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_50
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 360
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 323
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.29, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_52
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 327
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.29498315, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_53
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 326
+        width: 44
+        height: 32
+      alignment: 9
+      pivot: {x: 0.8482829, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_54
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 320
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.33, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_55
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 320
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_56
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 320
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.64, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_57
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 287
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.29, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_58
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 291
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2949831, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_59
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 290
+        width: 44
+        height: 32
+      alignment: 9
+      pivot: {x: 0.8482829, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_60
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 281
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_61
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 281
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_62
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 282
+        width: 44
+        height: 32
+      alignment: 9
+      pivot: {x: 0.82, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_63
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 248
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.29, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_64
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 251
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2949831, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_65
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 252
+        width: 60
+        height: 32
+      alignment: 9
+      pivot: {x: 0.88891757, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_66
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 242
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_67
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 241
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_68
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 242
+        width: 44
+        height: 32
+      alignment: 9
+      pivot: {x: 0.82, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_69
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 208
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 212
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_71
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 212
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_72
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 199
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_73
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 198
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_74
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 199
+        width: 60
+        height: 32
+      alignment: 9
+      pivot: {x: 0.865, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_75
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 168
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 172
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_77
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 172
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_78
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 159
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_79
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 158
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_80
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 159
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_81
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 128
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 132
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_83
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 132
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_84
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 119
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_85
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 118
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_86
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 119
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_87
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 82
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 82
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_89
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 82
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_90
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 82
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_91
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 79
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_92
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 78
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_93
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 79
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Simon Belmont - back-clear_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 416
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Castlevania - Simon Belmont - back-clear_52: 21300104
+      NES - Castlevania - Simon Belmont - back-clear_73: 21300146
+      NES - Castlevania - Simon Belmont - back-clear_46: 21300092
+      NES - Castlevania - Simon Belmont - back-clear_63: 21300126
+      NES - Castlevania - Simon Belmont - back-clear_71: 21300142
+      NES - Castlevania - Simon Belmont - back-clear_4: 21300008
+      NES - Castlevania - Simon Belmont - back-clear_7: 21300014
+      NES - Castlevania - Simon Belmont - back-clear_29: 21300058
+      NES - Castlevania - Simon Belmont - back-clear_11: 21300022
+      NES - Castlevania - Simon Belmont - back-clear_47: 21300094
+      NES - Castlevania - Simon Belmont - back-clear_42: 21300084
+      NES - Castlevania - Simon Belmont - back-clear_80: 21300160
+      NES - Castlevania - Simon Belmont - back-clear_30: 21300060
+      NES - Castlevania - Simon Belmont - back-clear_33: 21300066
+      NES - Castlevania - Simon Belmont - back-clear_50: 21300100
+      NES - Castlevania - Simon Belmont - back-clear_90: 21300180
+      NES - Castlevania - Simon Belmont - back-clear_26: 21300052
+      NES - Castlevania - Simon Belmont - back-clear_5: 21300010
+      NES - Castlevania - Simon Belmont - back-clear_15: 21300030
+      NES - Castlevania - Simon Belmont - back-clear_61: 21300122
+      NES - Castlevania - Simon Belmont - back-clear_14: 21300028
+      NES - Castlevania - Simon Belmont - back-clear_87: 21300174
+      NES - Castlevania - Simon Belmont - back-clear_65: 21300130
+      NES - Castlevania - Simon Belmont - back-clear_78: 21300156
+      NES - Castlevania - Simon Belmont - back-clear_38: 21300076
+      NES - Castlevania - Simon Belmont - back-clear_85: 21300170
+      NES - Castlevania - Simon Belmont - back-clear_8: 21300016
+      NES - Castlevania - Simon Belmont - back-clear_25: 21300050
+      NES - Castlevania - Simon Belmont - back-clear_31: 21300062
+      NES - Castlevania - Simon Belmont - back-clear_18: 21300036
+      NES - Castlevania - Simon Belmont - back-clear_64: 21300128
+      NES - Castlevania - Simon Belmont - back-clear_36: 21300072
+      NES - Castlevania - Simon Belmont - back-clear_70: 21300140
+      NES - Castlevania - Simon Belmont - back-clear_93: 21300186
+      NES - Castlevania - Simon Belmont - back-clear_27: 21300054
+      NES - Castlevania - Simon Belmont - back-clear_56: 21300112
+      NES - Castlevania - Simon Belmont - back-clear_43: 21300086
+      NES - Castlevania - Simon Belmont - back-clear_16: 21300032
+      NES - Castlevania - Simon Belmont - back-clear_60: 21300120
+      NES - Castlevania - Simon Belmont - back-clear_68: 21300136
+      NES - Castlevania - Simon Belmont - back-clear_40: 21300080
+      NES - Castlevania - Simon Belmont - back-clear_67: 21300134
+      NES - Castlevania - Simon Belmont - back-clear_82: 21300164
+      NES - Castlevania - Simon Belmont - back-clear_37: 21300074
+      NES - Castlevania - Simon Belmont - back-clear_83: 21300166
+      NES - Castlevania - Simon Belmont - back-clear_35: 21300070
+      NES - Castlevania - Simon Belmont - back-clear_22: 21300044
+      NES - Castlevania - Simon Belmont - back-clear_94: 21300188
+      NES - Castlevania - Simon Belmont - back-clear_91: 21300182
+      NES - Castlevania - Simon Belmont - back-clear_66: 21300132
+      NES - Castlevania - Simon Belmont - back-clear_59: 21300118
+      NES - Castlevania - Simon Belmont - back-clear_45: 21300090
+      NES - Castlevania - Simon Belmont - back-clear_34: 21300068
+      NES - Castlevania - Simon Belmont - back-clear_39: 21300078
+      NES - Castlevania - Simon Belmont - back-clear_89: 21300178
+      NES - Castlevania - Simon Belmont - back-clear_81: 21300162
+      NES - Castlevania - Simon Belmont - back-clear_0: 21300000
+      NES - Castlevania - Simon Belmont - back-clear_2: 21300004
+      NES - Castlevania - Simon Belmont - back-clear_28: 21300056
+      NES - Castlevania - Simon Belmont - back-clear_24: 21300048
+      NES - Castlevania - Simon Belmont - back-clear_58: 21300116
+      NES - Castlevania - Simon Belmont - back-clear_44: 21300088
+      NES - Castlevania - Simon Belmont - back-clear_76: 21300152
+      NES - Castlevania - Simon Belmont - back-clear_69: 21300138
+      NES - Castlevania - Simon Belmont - back-clear_41: 21300082
+      NES - Castlevania - Simon Belmont - back-clear_74: 21300148
+      NES - Castlevania - Simon Belmont - back-clear_3: 21300006
+      NES - Castlevania - Simon Belmont - back-clear_6: 21300012
+      NES - Castlevania - Simon Belmont - back-clear_54: 21300108
+      NES - Castlevania - Simon Belmont - back-clear_57: 21300114
+      NES - Castlevania - Simon Belmont - back-clear_23: 21300046
+      NES - Castlevania - Simon Belmont - back-clear_32: 21300064
+      NES - Castlevania - Simon Belmont - back-clear_53: 21300106
+      NES - Castlevania - Simon Belmont - back-clear_88: 21300176
+      NES - Castlevania - Simon Belmont - back-clear_55: 21300110
+      NES - Castlevania - Simon Belmont - back-clear_1: 21300002
+      NES - Castlevania - Simon Belmont - back-clear_49: 21300098
+      NES - Castlevania - Simon Belmont - back-clear_84: 21300168
+      NES - Castlevania - Simon Belmont - back-clear_21: 21300042
+      NES - Castlevania - Simon Belmont - back-clear_13: 21300026
+      NES - Castlevania - Simon Belmont - back-clear_48: 21300096
+      NES - Castlevania - Simon Belmont - back-clear_9: 21300018
+      NES - Castlevania - Simon Belmont - back-clear_72: 21300144
+      NES - Castlevania - Simon Belmont - back-clear_17: 21300034
+      NES - Castlevania - Simon Belmont - back-clear_79: 21300158
+      NES - Castlevania - Simon Belmont - back-clear_51: 21300102
+      NES - Castlevania - Simon Belmont - back-clear_75: 21300150
+      NES - Castlevania - Simon Belmont - back-clear_92: 21300184
+      NES - Castlevania - Simon Belmont - back-clear_19: 21300038
+      NES - Castlevania - Simon Belmont - back-clear_12: 21300024
+      NES - Castlevania - Simon Belmont - back-clear_20: 21300040
+      NES - Castlevania - Simon Belmont - back-clear_86: 21300172
+      NES - Castlevania - Simon Belmont - back-clear_10: 21300020
+      NES - Castlevania - Simon Belmont - back-clear_77: 21300154
+      NES - Castlevania - Simon Belmont - back-clear_62: 21300124
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
